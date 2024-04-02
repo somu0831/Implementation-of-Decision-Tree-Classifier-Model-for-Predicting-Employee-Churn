@@ -20,6 +20,9 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: 
 RegisterNumber:  
 */
+![image](https://github.com/somu0831/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/162110820/3f05a9b7-eaa7-4299-b721-57ef0f9c3b82)
+
+
 ```
 
 ## Output:
